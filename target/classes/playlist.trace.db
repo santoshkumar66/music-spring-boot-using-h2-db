@@ -1,0 +1,6 @@
+2023-03-09 08:59:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONG" not found; SQL statement:
+Update song SET singer=? WHERE songId=? [42102-214]
+2023-03-09 09:00:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONG" not found; SQL statement:
+Update song SET singer=? WHERE songId=? [42102-214]
